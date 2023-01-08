@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kilometrikorvaus_NETCore", "Kilometrikorvaus_NETCore\Kilometrikorvaus_NETCore.csproj", "{AE7598DC-5529-442E-8914-2B209EB23282}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kilometrikorvaus_NETCoreTestit", "Kilometrikorvaus_NETCoreTestit\Kilometrikorvaus_NETCoreTestit.csproj", "{9725636A-E66E-404D-9525-80342305E5B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7598DC-5529-442E-8914-2B209EB23282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7598DC-5529-442E-8914-2B209EB23282}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7598DC-5529-442E-8914-2B209EB23282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7598DC-5529-442E-8914-2B209EB23282}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9725636A-E66E-404D-9525-80342305E5B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9725636A-E66E-404D-9525-80342305E5B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9725636A-E66E-404D-9525-80342305E5B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9725636A-E66E-404D-9525-80342305E5B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F7268935-6EA9-4467-9C11-CC15BBF52802}
+	EndGlobalSection
+EndGlobal
